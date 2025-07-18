@@ -1,0 +1,35 @@
+.lp {
+    width: 2%;
+    height: 2px;
+    }
+
+
+    body {
+        background-image:url(Linkin_Park_-_From_Zero_Lead_Press_Photo_-_James_Minchin_III.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 50px;
+      }
+      h1 {
+        color: #cc007e;
+      }
+      p {
+        font-size: 18px;
+        color: aliceblue    ;
+    }
+      a {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 10px 15px;
+        background-color: #0077cc;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+  
+      }
+
+      img{ border-radius: 10px;}
